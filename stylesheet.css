@@ -1,0 +1,62 @@
+body {
+    background-color: azure;
+    padding: 5px;
+    color: black;
+}
+
+h1{
+    color:gray;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+a{
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+.footer_text{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 45px;
+}
+
+.navigation {
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+
+#linkedin {
+    text-align: center;
+    color: grey;
+    padding-left: 35px
+}
+
+#linkedin:hover {
+    color: #006192;
+}
+
+.container{
+    text-align: center;
+    padding-left: 35px
+}
